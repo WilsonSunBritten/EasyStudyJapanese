@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EasyStudyJapanese.HomePage">
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="FillAndExpand">
+      <Image>
+        
+      </Image>
+      <Button x:Name ="practiceButton" Text="Practice" Clicked="OnPracticeButtonClicked"></Button>
+      <Button x:Name ="dictionaryButton" Text="Dictionary"></Button>
+      <Button x:Name ="makeWordSetButton" Text="Make Word Set" Clicked="OnWordSetButtonClicked"></Button>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,4 @@
+C:\Users\Mark 72.6\Documents\Visual Studio 2015\Projects\EasyStudyJapanese\EasyStudyJapanese\EasyStudyJapanese.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Mark 72.6\Documents\Visual Studio 2015\Projects\EasyStudyJapanese\EasyStudyJapanese\EasyStudyJapanese.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Mark 72.6\Documents\Visual Studio 2015\Projects\EasyStudyJapanese\EasyStudyJapanese\EasyStudyJapanese.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Mark 72.6\Documents\Visual Studio 2015\Projects\EasyStudyJapanese\EasyStudyJapanese\EasyStudyJapanese.iOS\obj\iPhone\Debug\optimized\
