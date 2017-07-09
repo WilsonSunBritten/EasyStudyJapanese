@@ -17,8 +17,20 @@ namespace EasyStudyJapanese {
     public partial class MakeWordSetPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button createListButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button editListButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button deleteListButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MakeWordSetPage));
+            createListButton = this.FindByName<global::Xamarin.Forms.Button>("createListButton");
+            editListButton = this.FindByName<global::Xamarin.Forms.Button>("editListButton");
+            deleteListButton = this.FindByName<global::Xamarin.Forms.Button>("deleteListButton");
         }
     }
 }
